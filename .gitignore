@@ -1,0 +1,11 @@
+__pycache__
+*.json
+*.tmp
+*.log
+*.png
+data
+projects
+log
+log*
+*.egg-info
+datasets
